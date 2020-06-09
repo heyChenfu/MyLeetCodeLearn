@@ -1,0 +1,10 @@
+﻿  MyLeetCodeLearn.cpp
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(28,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(348,32): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(470,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(513,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(561,14): warning C4305: “=”: 从“int”到“bool”截断
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(597,28): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(663,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppProject\MyLeetCodeLearn\MyLeetCodeLearn\MyLeetCodeLearn.cpp(705,20): warning C4018: “<”: 有符号/无符号不匹配
+  MyLeetCodeLearn.vcxproj -> E:\CppProject\MyLeetCodeLearn\Debug\MyLeetCodeLearn.exe
